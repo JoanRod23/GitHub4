@@ -9,4 +9,7 @@ public class Demo3 {
 		
 	}
 
+	public static void multiply (int a, int b) {
+		system.out.println(a*b);
+
 }
